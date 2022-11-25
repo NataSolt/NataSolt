@@ -11,7 +11,13 @@
 <li>👩‍🏫 в планах учиться новому и расширять свои знания.</li>
 </ul>
 
+### Со мной можно связаться:
+solta@inbox.ru
+https://t.me/soltanata77
+
+
 ### Изученные технологии на данный момент:
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="40" height="40" alt="bootstrap" title="bootstrap">
