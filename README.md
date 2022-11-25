@@ -12,8 +12,8 @@
 </ul>
 
 ### Со мной можно связаться:
-solta@inbox.ru
-https://t.me/soltanata77
+* solta@inbox.ru
+* https://t.me/soltanata77
 
 
 ### Изученные технологии на данный момент:
